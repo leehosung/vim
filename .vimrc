@@ -15,6 +15,11 @@ set autoindent
 set foldmethod=indent
 set foldlevel=99
 
+"html and js
+autocmd Filetype html setlocal ts=2 sts=2 sw=2
+autocmd Filetype javascript setlocal ts=2 sts=2 sw=2
+let g:JSLintHighlightErrorLine = 0
+
 "rst
 let g:instant_rst_bind_scroll=0
 let g:riv_disable_folding = 1
