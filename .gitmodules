@@ -34,3 +34,15 @@
 [submodule "bundle/jsx"]
 	path = bundle/jsx
 	url = https://github.com/mxw/vim-jsx.git
+[submodule "bundle/instantrst"]
+	path = bundle/instantrst
+	url = https://github.com/Rykka/InstantRst.git
+[submodule "bundle/riv.vim"]
+	path = bundle/riv.vim
+	url = https://github.com/Rykka/riv.vim.git
+[submodule "bundle/javascript"]
+	path = bundle/javascript
+	url = https://github.com/pangloss/vim-javascript.git
+[submodule "bundle/jslint"]
+	path = bundle/jslint
+	url = git@github.com:hallettj/jslint.vim.git
